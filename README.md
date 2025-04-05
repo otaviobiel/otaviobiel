@@ -1,7 +1,7 @@
-<h1 align="center">Hi! I'm Gabriel Otávio, software engineer student <img width="50" src="./assets/coffee.png"/></h1>
+<h1>Hi! I'm Gabriel Otávio, software engineer student <img width="50" src="./assets/coffee.png"/></h1>
 
 <!-- Github Stats -->
-<div align="center">
+<div>
   <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=otaviobiel&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" />
   <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviobiel&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact"/>
 </div><br>
