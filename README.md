@@ -2,8 +2,8 @@
 
 <!-- Github Stats -->
 <div>
-  <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=otaviobiel&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" />
-  <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviobiel&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=otaviobiel&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviobiel&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact"/>
 </div><br>
 
 <!-- About me -->
