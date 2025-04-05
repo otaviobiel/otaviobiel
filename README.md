@@ -19,6 +19,8 @@
 <div align="left">
   <a href="https://instagram.com/yourprofile" ><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"></a>
   <a href="https://github.com/yourgithub"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Badge"></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D44638.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"></a>
+  <a href="https://www.linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"></a>
 </div><br>
 <h2></h2>
 
