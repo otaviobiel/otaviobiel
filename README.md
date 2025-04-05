@@ -1,4 +1,4 @@
-<h1>Hi! I'm Gabriel Otávio, software engineer student <img width="50" src="./assets/coffee.png"/></h1>
+<h1><img width="50" src="./assets/coffee.png"/>Hi! I'm Gabriel Otávio, software engineer student</h1>
 
 <!-- Github Stats -->
 <div>
@@ -7,31 +7,39 @@
 </div><br>
 
 <!-- About me -->
-<div style="display: inline_block;">
+<div style="display: inline_block">
 
-  ## About me
+  ## 🍕About me
 
   <img width="100" align="left" src="https://media.giphy.com/media/I3rbjijgss7D2Oab2A/giphy.gif?cid=790b7611igvdem1n41b2nqhxljb9li56lgu281c69gw2m7gu&ep=v1_stickers_search&rid=giphy.gif&ct=s" />
-  <h3 align="center">I'm from Brazil, I like programming and creating codes,<br>I love cats and coffee.</h3>
-</div><br>
+	<img src="">
+  <img align="right" width="100" src="https://media.giphy.com/media/77Zc0ouTn0PZf1telC/giphy.gif?cid=ecf05e47rfwfeel878ibtw8xa94tso8ymoxjh1ebvs02z9w7&ep=v1_stickers_search&rid=giphy.gif&ct=s">
+</div><br><br>
 
   ##
 
-<!-- Languages -->
+<!-- Links -->
 <div align="center" style="display: inline_block;"><br>
   <div align="center">
     <img align="left" width="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanVwYXhibGs4dGpiM2YzcmszYm4xZ3l2aDNzZ3ZrOTdlNHQ4dDBteSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/y6h7gz0Xi9iTF6qLmR/giphy.gif"/>
-    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+		<!---->
+    <a href=""><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+    <a href=""><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+    <a href=""><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+		<a href=""><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+		<!---->
     <img align="right" width="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanVwYXhibGs4dGpiM2YzcmszYm4xZ3l2aDNzZ3ZrOTdlNHQ4dDBteSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/y6h7gz0Xi9iTF6qLmR/giphy.gif"/>
   </div>
 </div><br>
 
-<!-- Links -->
-<div align="center">
-  	<a href=""><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+##
+
+<!-- Languages & Technologies -->
+<div>
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </div>
 
 
