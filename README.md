@@ -38,4 +38,8 @@
     <img width="100" src="https://media.giphy.com/media/6KirhLJyR7oMcwgJQk/giphy.gif?cid=ecf05e47oun51odh4zehnwwlokwsn0t490s6tng1na81fxho&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="Coding fun GIF"/>
 </div>
 
-![snake gif](https://github.com/otaviobiel/otaviobiel/blob/output/github-contribution-grid-snake.svg)
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/otaviobiel/otaviobiel/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/otaviobiel/otaviobiel/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/otaviobiel/otaviobiel/output/github-contribution-grid-snake.svg">
+</picture>
